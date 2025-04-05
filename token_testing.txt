@@ -1,0 +1,6 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwiZXhwIjoxNzQ0MzAyNzA0fQ.aR22buIVWX85ln_8CcxGSRyiZ5zWmfmARMN5t5Y0bZM
+   {
+        "username": "testing3",
+        "email": "test3@gmail.com",
+        "password": "1234567"
+    }
